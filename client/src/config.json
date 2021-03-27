@@ -1,0 +1,4 @@
+{
+  "serverURL": "http://IPAddress:3000/api",
+  "timeRaster": 10
+}
